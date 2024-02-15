@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://blx3a3e0m1o1j"
+=======
+uid="uid://ckcmc5cf4jciy"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Yeti.png-a3b76b95901c7b222b2747e8d2ff34a0.ctex"
 metadata={
 "vram_texture": false

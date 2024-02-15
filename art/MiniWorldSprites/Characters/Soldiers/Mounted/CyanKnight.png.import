@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bwiuxh6a8fgcx"
+=======
+uid="uid://bo6o81l7n2kuo"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/CyanKnight.png-148f7801ba1612dc29643817fb8548e5.ctex"
 metadata={
 "vram_texture": false

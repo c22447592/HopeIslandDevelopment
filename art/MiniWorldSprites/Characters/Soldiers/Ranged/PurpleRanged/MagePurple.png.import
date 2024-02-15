@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c2pmtr50ca480"
+=======
+uid="uid://bbom5qrq1doi"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/MagePurple.png-65aa81a9f086f858b4109edfd4963388.ctex"
 metadata={
 "vram_texture": false

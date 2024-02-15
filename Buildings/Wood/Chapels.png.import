@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Wood/Chapels.png.import
+uid="uid://byg7e5ef4iv5y"
+path="res://.godot/imported/Chapels.png-9c280c906b5cc8d42363038d707fd8c0.ctex"
+=======
+uid="uid://bgqqhjed2bwn"
+path="res://.godot/imported/Chapels.png-1ad965a46ae9a1f6938b0a0d0b5ac222.ctex"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Wood/Chapels.png.import
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Wood/Chapels.png.import
+source_file="res://art/MiniWorldSprites/Buildings/Wood/Chapels.png"
+dest_files=["res://.godot/imported/Chapels.png-9c280c906b5cc8d42363038d707fd8c0.ctex"]
+=======
+source_file="res://Buildings/Wood/Chapels.png"
+dest_files=["res://.godot/imported/Chapels.png-1ad965a46ae9a1f6938b0a0d0b5ac222.ctex"]
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Wood/Chapels.png.import
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

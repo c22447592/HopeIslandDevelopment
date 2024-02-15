@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dd3vaywvi0q3l"
+=======
+uid="uid://337xngvj5dxx"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/BoxSelector.png-1c7787b10c40094a9732ab92a3bf0ec6.ctex"
 metadata={
 "vram_texture": false

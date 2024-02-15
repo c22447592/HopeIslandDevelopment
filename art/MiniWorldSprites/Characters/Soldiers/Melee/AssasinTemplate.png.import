@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dmt1rigtixyt2"
+=======
+uid="uid://da83irun82xij"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/AssasinTemplate.png-a646ed235e022f272a7cfe6b5330c092.ctex"
 metadata={
 "vram_texture": false

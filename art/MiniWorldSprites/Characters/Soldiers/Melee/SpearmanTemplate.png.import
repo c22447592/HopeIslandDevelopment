@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c7nrqmtcmv71q"
+=======
+uid="uid://c016qut5t1ki"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/SpearmanTemplate.png-24288f7df036bf5aa5ed9b48c2697171.ctex"
 metadata={
 "vram_texture": false

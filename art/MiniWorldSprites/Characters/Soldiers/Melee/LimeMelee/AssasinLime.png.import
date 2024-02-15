@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bcx7sobvj4auk"
+=======
+uid="uid://bhti58m4ipunv"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/AssasinLime.png-55c80a39271ba404b32f1a57165bf4dc.ctex"
 metadata={
 "vram_texture": false

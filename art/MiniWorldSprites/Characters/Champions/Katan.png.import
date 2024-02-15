@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://xhjjlfqf23t4"
+=======
+uid="uid://ccfhs7xo0qkht"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Katan.png-8c64ea6fed966bda13e355cfbe1ab397.ctex"
 metadata={
 "vram_texture": false

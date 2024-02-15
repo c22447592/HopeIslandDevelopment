@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dghwcl5ofmdnc"
+=======
+uid="uid://hglyw1ml3kas"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/BowmanCyan.png-59c4e4072290d60f43f568e354f74d6a.ctex"
 metadata={
 "vram_texture": false

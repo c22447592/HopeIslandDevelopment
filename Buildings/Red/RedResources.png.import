@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Red/RedResources.png.import
+uid="uid://dttn5mtc23y5x"
+path="res://.godot/imported/RedResources.png-8614a47870e8a3635a62f30e3d4c7086.ctex"
+=======
+uid="uid://dqry100a6eoka"
+path="res://.godot/imported/RedResources.png-3e9d0727506974da6e803f7cf425b5b3.ctex"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Red/RedResources.png.import
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Red/RedResources.png.import
+source_file="res://art/MiniWorldSprites/Buildings/Red/RedResources.png"
+dest_files=["res://.godot/imported/RedResources.png-8614a47870e8a3635a62f30e3d4c7086.ctex"]
+=======
+source_file="res://Buildings/Red/RedResources.png"
+dest_files=["res://.godot/imported/RedResources.png-3e9d0727506974da6e803f7cf425b5b3.ctex"]
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Red/RedResources.png.import
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

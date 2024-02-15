@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://28ks12771dnx"
+=======
+uid="uid://b8ja4lxega4yw"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/MageRed.png-d03c8308a8c892777e44e7ae3d873a3c.ctex"
 metadata={
 "vram_texture": false

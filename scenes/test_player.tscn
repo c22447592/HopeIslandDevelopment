@@ -1,6 +1,6 @@
 [gd_scene load_steps=30 format=3 uid="uid://ccqixd71au2xk"]
 
-[ext_resource type="Script" path="res://script/testPlayer.gd" id="1_jwnh3"]
+[ext_resource type="Script" path="res://script/player.gd" id="1_7daut"]
 [ext_resource type="Texture2D" uid="uid://ddoayw6jivqfp" path="res://art/hlbkfgX.png" id="2_yy0yx"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_qpmap"]
@@ -228,13 +228,13 @@ animations = [{
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_72lqk"]
 
-[node name="testPlayer" type="CharacterBody2D"]
-script = ExtResource("1_jwnh3")
+[node name="player" type="CharacterBody2D"]
+script = ExtResource("1_7daut")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_wvo4g")
-animation = &"NW-walk"
-frame_progress = 0.551851
+animation = &"Idle"
+frame_progress = 0.274464
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, 4)

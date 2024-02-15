@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://624bj7g8m5pn"
+=======
+uid="uid://ckfb6pg6uoi2i"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Mammoth.png-31a2d8e6b8c7e4e43ec13a822ef6cf77.ctex"
 metadata={
 "vram_texture": false

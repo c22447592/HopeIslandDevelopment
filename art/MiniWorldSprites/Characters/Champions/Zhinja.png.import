@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bbnu0kxw4d25a"
+=======
+uid="uid://crlkcv0yr4qfi"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Zhinja.png-b98523c7038516f18af9233fc183ac6c.ctex"
 metadata={
 "vram_texture": false

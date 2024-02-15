@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ptf2gnxwovt"
+=======
+uid="uid://devmmg3gf34fx"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/YellowDragon.png-3ed3b238dfea2acaa930e02ac5f784f8.ctex"
 metadata={
 "vram_texture": false

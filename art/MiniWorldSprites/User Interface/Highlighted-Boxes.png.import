@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c0vgm7u46xj54"
+=======
+uid="uid://bxe0fv8mfw8cr"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Highlighted-Boxes.png-7bf0ed42fb44c4916e3ea393d3c8dca3.ctex"
 metadata={
 "vram_texture": false

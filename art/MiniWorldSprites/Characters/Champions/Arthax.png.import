@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://6v62fxnqf5d8"
+=======
+uid="uid://cfkowucmvno0c"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Arthax.png-b36ef13ebce18b27a5bd547d715b6b74.ctex"
 metadata={
 "vram_texture": false

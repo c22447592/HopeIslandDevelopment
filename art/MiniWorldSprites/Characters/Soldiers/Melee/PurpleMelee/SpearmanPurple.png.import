@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dokwtflqscgk0"
+=======
+uid="uid://drrbymchh1ydr"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/SpearmanPurple.png-a19d115fffcfc7e986bcb07b9fc4a96e.ctex"
 metadata={
 "vram_texture": false

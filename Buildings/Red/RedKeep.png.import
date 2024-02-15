@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Red/RedKeep.png.import
+uid="uid://doji2yo22hl41"
+path="res://.godot/imported/RedKeep.png-b48944bb01a27d39b919bee360d7e0e8.ctex"
+=======
+uid="uid://buwvhjbkhc4rm"
+path="res://.godot/imported/RedKeep.png-1cef33b79d8b43f7814ed577bcf50b9c.ctex"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Red/RedKeep.png.import
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Red/RedKeep.png.import
+source_file="res://art/MiniWorldSprites/Buildings/Red/RedKeep.png"
+dest_files=["res://.godot/imported/RedKeep.png-b48944bb01a27d39b919bee360d7e0e8.ctex"]
+=======
+source_file="res://Buildings/Red/RedKeep.png"
+dest_files=["res://.godot/imported/RedKeep.png-1cef33b79d8b43f7814ed577bcf50b9c.ctex"]
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Red/RedKeep.png.import
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

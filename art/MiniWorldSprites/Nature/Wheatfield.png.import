@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://rqgq6oat0if1"
+=======
+uid="uid://btsdtjq5y21cu"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Wheatfield.png-9fb486e89046dce8363437e281b7dfe7.ctex"
 metadata={
 "vram_texture": false

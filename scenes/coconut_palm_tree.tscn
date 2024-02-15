@@ -1,0 +1,58 @@
+[gd_scene load_steps=7 format=3 uid="uid://xiwgrq0vtpcu"]
+
+[ext_resource type="Script" path="res://script/coconutPalmTree.gd" id="1_upvfe"]
+[ext_resource type="Texture2D" uid="uid://dgkshcmr1g0ue" path="res://art/survivalgame-appletree.png" id="2_xvfya"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3hcf7"]
+atlas = ExtResource("2_xvfya")
+region = Rect2(40, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0mg01"]
+atlas = ExtResource("2_xvfya")
+region = Rect2(80, 0, 40, 40)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_lhgg7"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3hcf7")
+}],
+"loop": true,
+"name": &"coconuts",
+"speed": 0.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0mg01")
+}],
+"loop": true,
+"name": &"noCoconuts",
+"speed": 0.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_aceyl"]
+size = Vector2(37, 49)
+
+[node name="coconutPalmTree" type="Node2D"]
+script = ExtResource("1_upvfe")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_lhgg7")
+animation = &"noCoconuts"
+
+[node name="interactionArea" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="interactionArea"]
+position = Vector2(1, 5)
+shape = SubResource("RectangleShape2D_aceyl")
+
+[node name="growth_Timer" type="Timer" parent="."]
+wait_time = 3.0
+one_shot = true
+
+[node name="Marker2D" type="Marker2D" parent="."]
+position = Vector2(0, 20)
+
+[connection signal="body_entered" from="interactionArea" to="." method="_on_interaction_area_body_entered"]
+[connection signal="body_exited" from="interactionArea" to="." method="_on_interaction_area_body_exited"]
+[connection signal="timeout" from="growth_Timer" to="." method="_on_growth_timer_timeout"]

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ceq53mb7m6pgv"
+=======
+uid="uid://dghcd3wwt881"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Kanji.png-2d58606d2c1a61f257f7c5a13e508280.ctex"
 metadata={
 "vram_texture": false

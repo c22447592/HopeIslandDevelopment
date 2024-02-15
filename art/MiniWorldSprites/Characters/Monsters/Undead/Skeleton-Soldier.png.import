@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://kr3hdcwxqxvl"
+=======
+uid="uid://bk6dai1bt4usq"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/Skeleton-Soldier.png-cdbaf6613903515620b1ac1a527b7de7.ctex"
 metadata={
 "vram_texture": false

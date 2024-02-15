@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeTower.png.import
+uid="uid://bfeuaq35e8uwf"
+path="res://.godot/imported/LimeTower.png-f8aa402274062299daf0358f3196f752.ctex"
+=======
+uid="uid://brdhxwpnulwcd"
+path="res://.godot/imported/LimeTower.png-2893f18e487aa448afc1f4365e85a8cb.ctex"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeTower.png.import
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeTower.png.import
+source_file="res://art/MiniWorldSprites/Buildings/Lime/LimeTower.png"
+dest_files=["res://.godot/imported/LimeTower.png-f8aa402274062299daf0358f3196f752.ctex"]
+=======
+source_file="res://Buildings/Lime/LimeTower.png"
+dest_files=["res://.godot/imported/LimeTower.png-2893f18e487aa448afc1f4365e85a8cb.ctex"]
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeTower.png.import
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cd1fg3qf2epwl"
+=======
+uid="uid://dag8do45lwe3m"
+>>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364
 path="res://.godot/imported/RedDemon.png-07eb4972689f2a6403ed9143e3f7f18c.ctex"
 metadata={
 "vram_texture": false
