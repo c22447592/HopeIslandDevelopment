@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Red/RedWell.png.import
-uid="uid://cwh4r55mec2ol"
-path="res://.godot/imported/RedWell.png-1b999da6658f9948e5dbf564f82229e5.ctex"
-=======
-uid="uid://4njtcaikw7ad"
+uid="uid://cx88t8qgudxj8"
 path="res://.godot/imported/RedWell.png-68ccc3280ddab4fad2ae0a63f00ad1f2.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Red/RedWell.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Red/RedWell.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Red/RedWell.png"
-dest_files=["res://.godot/imported/RedWell.png-1b999da6658f9948e5dbf564f82229e5.ctex"]
-=======
 source_file="res://Buildings/Red/RedWell.png"
 dest_files=["res://.godot/imported/RedWell.png-68ccc3280ddab4fad2ae0a63f00ad1f2.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Red/RedWell.png.import
 
 [params]
 

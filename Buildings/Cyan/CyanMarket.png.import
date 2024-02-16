@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanMarket.png.import
-uid="uid://bxxqsx7dgwgqh"
-path="res://.godot/imported/CyanMarket.png-2e3344b05166d8145a875a5ef81d747b.ctex"
-=======
-uid="uid://ryqa0kpnas6i"
+uid="uid://mo7fkig8vlse"
 path="res://.godot/imported/CyanMarket.png-046a95f64d170c96b71c0bb0d33c1fac.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanMarket.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanMarket.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Cyan/CyanMarket.png"
-dest_files=["res://.godot/imported/CyanMarket.png-2e3344b05166d8145a875a5ef81d747b.ctex"]
-=======
 source_file="res://Buildings/Cyan/CyanMarket.png"
 dest_files=["res://.godot/imported/CyanMarket.png-046a95f64d170c96b71c0bb0d33c1fac.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanMarket.png.import
 
 [params]
 

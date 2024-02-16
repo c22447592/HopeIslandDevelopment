@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Enemy/Orc/AllBuildings-Preview.png.import
-uid="uid://dax7lmhhplhyt"
-path="res://.godot/imported/AllBuildings-Preview.png-9e24a42110d8dbec77a8345d80257410.ctex"
-=======
-uid="uid://bip2kgxr3hk1d"
+uid="uid://dd4kbcul6ckfp"
 path="res://.godot/imported/AllBuildings-Preview.png-fdca114622909386345851ab08a60feb.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Enemy/Orc/AllBuildings-Preview.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Enemy/Orc/AllBuildings-Preview.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Enemy/Orc/AllBuildings-Preview.png"
-dest_files=["res://.godot/imported/AllBuildings-Preview.png-9e24a42110d8dbec77a8345d80257410.ctex"]
-=======
 source_file="res://Buildings/Enemy/Orc/AllBuildings-Preview.png"
 dest_files=["res://.godot/imported/AllBuildings-Preview.png-fdca114622909386345851ab08a60feb.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Enemy/Orc/AllBuildings-Preview.png.import
 
 [params]
 

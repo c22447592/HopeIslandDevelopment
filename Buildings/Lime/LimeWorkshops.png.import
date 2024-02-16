@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeWorkshops.png.import
-uid="uid://cb3b6edshbw5k"
-path="res://.godot/imported/LimeWorkshops.png-ab31e4839cc2e0fbe49c88a790808325.ctex"
-=======
-uid="uid://c0470hlo54xsd"
+uid="uid://dltjjh2wuofip"
 path="res://.godot/imported/LimeWorkshops.png-fa1284e75751cfe5c73d9708f58cd95f.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeWorkshops.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeWorkshops.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Lime/LimeWorkshops.png"
-dest_files=["res://.godot/imported/LimeWorkshops.png-ab31e4839cc2e0fbe49c88a790808325.ctex"]
-=======
 source_file="res://Buildings/Lime/LimeWorkshops.png"
 dest_files=["res://.godot/imported/LimeWorkshops.png-fa1284e75751cfe5c73d9708f58cd95f.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeWorkshops.png.import
 
 [params]
 

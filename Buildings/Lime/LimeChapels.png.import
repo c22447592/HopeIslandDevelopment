@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeChapels.png.import
-uid="uid://c813von6sh802"
-path="res://.godot/imported/LimeChapels.png-0adc0afb1f0bf8ee85c2ec2fa023ad17.ctex"
-=======
-uid="uid://dstcj3us7oehe"
+uid="uid://3ndihvhgqjuc"
 path="res://.godot/imported/LimeChapels.png-da5e337c59e7705e6e4becbf7a050d30.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeChapels.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeChapels.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Lime/LimeChapels.png"
-dest_files=["res://.godot/imported/LimeChapels.png-0adc0afb1f0bf8ee85c2ec2fa023ad17.ctex"]
-=======
 source_file="res://Buildings/Lime/LimeChapels.png"
 dest_files=["res://.godot/imported/LimeChapels.png-da5e337c59e7705e6e4becbf7a050d30.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeChapels.png.import
 
 [params]
 

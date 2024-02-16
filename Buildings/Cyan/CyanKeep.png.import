@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanKeep.png.import
-uid="uid://dam4h7lxff2ht"
-path="res://.godot/imported/CyanKeep.png-b82483d4c484db7037de90e4b12ce70c.ctex"
-=======
-uid="uid://c5uibb06m0u4x"
+uid="uid://cmkjiyopmx4av"
 path="res://.godot/imported/CyanKeep.png-d97aeeebfbca540302738d92c743f3d5.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanKeep.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanKeep.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Cyan/CyanKeep.png"
-dest_files=["res://.godot/imported/CyanKeep.png-b82483d4c484db7037de90e4b12ce70c.ctex"]
-=======
 source_file="res://Buildings/Cyan/CyanKeep.png"
 dest_files=["res://.godot/imported/CyanKeep.png-d97aeeebfbca540302738d92c743f3d5.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanKeep.png.import
 
 [params]
 

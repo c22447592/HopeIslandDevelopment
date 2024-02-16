@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeMarket.png.import
-uid="uid://bkq5p5h2lux40"
-path="res://.godot/imported/LimeMarket.png-021c09a33dc8eacdf6c341a3d3c530e1.ctex"
-=======
-uid="uid://dgwg0r6ne71rq"
+uid="uid://b2cxhqfi8wv88"
 path="res://.godot/imported/LimeMarket.png-3a4a2453ddc320175975f31fbbc34e14.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeMarket.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeMarket.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Lime/LimeMarket.png"
-dest_files=["res://.godot/imported/LimeMarket.png-021c09a33dc8eacdf6c341a3d3c530e1.ctex"]
-=======
 source_file="res://Buildings/Lime/LimeMarket.png"
 dest_files=["res://.godot/imported/LimeMarket.png-3a4a2453ddc320175975f31fbbc34e14.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeMarket.png.import
 
 [params]
 

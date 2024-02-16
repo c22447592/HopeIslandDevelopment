@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanChapels.png.import
-uid="uid://dt5e4mxswk57m"
-path="res://.godot/imported/CyanChapels.png-553bca398d979b427228c5337674580f.ctex"
-=======
-uid="uid://b127mgyah6d6n"
+uid="uid://dke7530w63p14"
 path="res://.godot/imported/CyanChapels.png-3a95a68ed59050b33541ec81c200fbfe.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanChapels.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanChapels.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Cyan/CyanChapels.png"
-dest_files=["res://.godot/imported/CyanChapels.png-553bca398d979b427228c5337674580f.ctex"]
-=======
 source_file="res://Buildings/Cyan/CyanChapels.png"
 dest_files=["res://.godot/imported/CyanChapels.png-3a95a68ed59050b33541ec81c200fbfe.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanChapels.png.import
 
 [params]
 

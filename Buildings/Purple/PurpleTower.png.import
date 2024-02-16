@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Purple/PurpleTower.png.import
-uid="uid://4yv6ltakrjak"
-path="res://.godot/imported/PurpleTower.png-1bfbf7e1df0db7aef9f7887ebe7149ff.ctex"
-=======
-uid="uid://cpa2i0cfrhsb4"
+uid="uid://duvhjbp0gp50o"
 path="res://.godot/imported/PurpleTower.png-19561bd53de2a57a7906177dffb3151b.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Purple/PurpleTower.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Purple/PurpleTower.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Purple/PurpleTower.png"
-dest_files=["res://.godot/imported/PurpleTower.png-1bfbf7e1df0db7aef9f7887ebe7149ff.ctex"]
-=======
 source_file="res://Buildings/Purple/PurpleTower.png"
 dest_files=["res://.godot/imported/PurpleTower.png-19561bd53de2a57a7906177dffb3151b.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Purple/PurpleTower.png.import
 
 [params]
 

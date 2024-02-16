@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanWell.png.import
-uid="uid://d2b2avsljt2np"
-path="res://.godot/imported/CyanWell.png-99a37509bb55b4b2f9597d14e95d3516.ctex"
-=======
-uid="uid://cy7g73g4by1g5"
+uid="uid://ce2nihw21y78m"
 path="res://.godot/imported/CyanWell.png-554f916206a63ce2e50c75f78d598850.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanWell.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanWell.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Cyan/CyanWell.png"
-dest_files=["res://.godot/imported/CyanWell.png-99a37509bb55b4b2f9597d14e95d3516.ctex"]
-=======
 source_file="res://Buildings/Cyan/CyanWell.png"
 dest_files=["res://.godot/imported/CyanWell.png-554f916206a63ce2e50c75f78d598850.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanWell.png.import
 
 [params]
 

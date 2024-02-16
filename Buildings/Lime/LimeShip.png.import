@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeShip.png.import
-uid="uid://dld4qrxacyhrl"
-path="res://.godot/imported/LimeShip.png-a402323f3db40de6a631893c03297212.ctex"
-=======
-uid="uid://hptl727mll6i"
+uid="uid://cdsbj8keo6yns"
 path="res://.godot/imported/LimeShip.png-95973c557c1ec9b1792f651d6796c7d7.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeShip.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Lime/LimeShip.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Lime/LimeShip.png"
-dest_files=["res://.godot/imported/LimeShip.png-a402323f3db40de6a631893c03297212.ctex"]
-=======
 source_file="res://Buildings/Lime/LimeShip.png"
 dest_files=["res://.godot/imported/LimeShip.png-95973c557c1ec9b1792f651d6796c7d7.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Lime/LimeShip.png.import
 
 [params]
 

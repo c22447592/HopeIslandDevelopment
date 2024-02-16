@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanBarracks.png.import
-uid="uid://brl2e7l2fjldc"
-path="res://.godot/imported/CyanBarracks.png-5f7dea8340d3808df24cd9604cc63cba.ctex"
-=======
-uid="uid://cr6fwpt3r5ik3"
+uid="uid://cf8p7mqxvcjud"
 path="res://.godot/imported/CyanBarracks.png-c6f90f328a78adc77a0e56745cbb2fba.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanBarracks.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Cyan/CyanBarracks.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Cyan/CyanBarracks.png"
-dest_files=["res://.godot/imported/CyanBarracks.png-5f7dea8340d3808df24cd9604cc63cba.ctex"]
-=======
 source_file="res://Buildings/Cyan/CyanBarracks.png"
 dest_files=["res://.godot/imported/CyanBarracks.png-c6f90f328a78adc77a0e56745cbb2fba.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Cyan/CyanBarracks.png.import
 
 [params]
 

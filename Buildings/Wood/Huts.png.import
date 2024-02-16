@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Wood/Huts.png.import
-uid="uid://bjdbs0hpb6mmx"
-path="res://.godot/imported/Huts.png-2948bb523da2d96bbd9c5332de75b176.ctex"
-=======
-uid="uid://bggvnbmpnqmc0"
+uid="uid://i30qq7gipm2s"
 path="res://.godot/imported/Huts.png-d43f96aebf398cf084e420acdb62bdd9.ctex"
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Wood/Huts.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/MiniWorldSprites/Buildings/Wood/Huts.png.import
-source_file="res://art/MiniWorldSprites/Buildings/Wood/Huts.png"
-dest_files=["res://.godot/imported/Huts.png-2948bb523da2d96bbd9c5332de75b176.ctex"]
-=======
 source_file="res://Buildings/Wood/Huts.png"
 dest_files=["res://.godot/imported/Huts.png-d43f96aebf398cf084e420acdb62bdd9.ctex"]
->>>>>>> 4ccc5789d931939327c44f72a90be1b3d0f73364:Buildings/Wood/Huts.png.import
 
 [params]
 
