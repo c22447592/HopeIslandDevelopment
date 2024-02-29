@@ -2,6 +2,7 @@ extends Node2D
 
 var state = "noCoconuts"
 var player_in_area = false
+var object_pressed = false
 
 var coconut = preload("res://scenes/coconut_item.tscn")
 
@@ -16,9 +17,10 @@ func _process(delta):
 	if state == "coconuts":
 		$AnimatedSprite2D.play("coconuts")
 		if player_in_area:
-			if Input.is_action_just_pressed("interact"):
+			if player_in_area and object_pressed:
 				state = "noCoconuts"
 				dropCoconut()
+				object_pressed = false
 
 
 
@@ -43,3 +45,8 @@ func dropCoconut():
 	
 	await get_tree().create_timer(3).timeout
 	$growth_Timer.start()
+
+
+func _on_interaction_area_input_event(viewport, event, shape_idx):
+	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
+		object_pressed = true

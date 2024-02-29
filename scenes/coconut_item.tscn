@@ -1,17 +1,17 @@
 [gd_scene load_steps=8 format=3 uid="uid://dg4eq1j38o8ho"]
 
 [ext_resource type="Script" path="res://script/coconut_item.gd" id="1_w4mib"]
-[ext_resource type="Texture2D" uid="uid://ckygtlvcsy3tx" path="res://art/apple-icon.png" id="2_7hp5u"]
+[ext_resource type="Texture2D" uid="uid://bldpttoytoyxx" path="res://art/Items/Food/Coconut.png" id="2_kw26l"]
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_ggx6g"]
-atlas = ExtResource("2_7hp5u")
+[sub_resource type="AtlasTexture" id="AtlasTexture_wlfsi"]
+atlas = ExtResource("2_kw26l")
 region = Rect2(0, 0, 16, 16)
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_11ut7"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_ggx6g")
+"texture": SubResource("AtlasTexture_wlfsi")
 }],
 "loop": true,
 "name": &"coconut",
@@ -106,7 +106,6 @@ _data = {
 script = ExtResource("1_w4mib")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-self_modulate = Color(1, 1, 1, 0)
 rotation = 6.28319
 sprite_frames = SubResource("SpriteFrames_11ut7")
 animation = &"coconut"

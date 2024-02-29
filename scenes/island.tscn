@@ -233,7 +233,7 @@ metadata/_edit_horizontal_guides_ = [-22.0, -127.0]
 [node name="testPlayer" parent="." instance=ExtResource("1_clxes")]
 
 [node name="Camera2D" type="Camera2D" parent="testPlayer"]
-zoom = Vector2(2.5, 2.5)
+zoom = Vector2(3, 3)
 limit_left = -350
 limit_top = -150
 limit_right = 320
@@ -253,7 +253,9 @@ layer_2/name = "3"
 layer_2/tile_data = PackedInt32Array()
 
 [node name="coconutPalmTree" parent="." instance=ExtResource("2_5sv0a")]
-position = Vector2(153, 36)
+position = Vector2(153, 38)
+scale = Vector2(1.4, 1.4)
 
 [node name="coconutPalmTree2" parent="." instance=ExtResource("2_5sv0a")]
 position = Vector2(-116, -19)
+scale = Vector2(1.4, 1.4)
