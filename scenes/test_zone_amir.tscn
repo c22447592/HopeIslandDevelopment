@@ -99,15 +99,15 @@ texture = ExtResource("3_8u5um")
 4:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 4:2/0/physics_layer_0/angular_velocity = 0.0
 5:2/0 = 0
-5:2/0/y_sort_origin = -8
+5:2/0/y_sort_origin = 1
 5:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 5:2/0/physics_layer_0/angular_velocity = 0.0
-5:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(-3.22951, 8, -1.55907, 5.67948, 8, 5.9022, 8, 8)
+5:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, 8, -3, 8, -3, 6.6875, 8, 6.9375)
 6:2/0 = 0
-6:2/0/y_sort_origin = -8
+6:2/0/y_sort_origin = 1
 6:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 6:2/0/physics_layer_0/angular_velocity = 0.0
-6:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(2.00452, 8, 0.111362, 5.45675, -8, 5.23403, -8, 8)
+6:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(2.1875, 8, 1.9375, 6.75, -8, 6.5625, -8, 8)
 0:3/0 = 0
 0:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:3/0/physics_layer_0/angular_velocity = 0.0
@@ -127,12 +127,12 @@ texture = ExtResource("3_8u5um")
 5:3/0/y_sort_origin = -8
 5:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 5:3/0/physics_layer_0/angular_velocity = 0.0
-5:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(3.89768, 0.890899, 8, 0.556811, 8, 6.01357, -3.45223, 6.12493, -5.12267, 4.34313, -5.34539, 0.668174)
+5:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, -8, -4.25, -8, -5.75, -2.625, -5.25, 4.625, -1.125, 6.625, 8, 6.5, 8, -2.375)
 6:3/0 = 0
 6:3/0/y_sort_origin = -8
 6:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 6:3/0/physics_layer_0/angular_velocity = 0.0
-6:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(4.00904, 0.334087, 4.13908, 3.50769, 2.22725, 5.9022, -8, 6.23629, -8, 0.556811)
+6:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(3.625, -8, -8, -8, -8, 6.375, -8, 6.75, -1.125, 6.625, 4.25, 5.875, 4.25, -2.25)
 0:4/0 = 0
 0:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:4/0/physics_layer_0/angular_velocity = 0.0
@@ -356,6 +356,10 @@ sources/5 = SubResource("TileSetAtlasSource_aor57")
 [node name="testZone_Amir" type="Node2D"]
 y_sort_enabled = true
 
+[node name="coconutPalmTree2" parent="." instance=ExtResource("8_bbd0w")]
+position = Vector2(57, 12)
+scale = Vector2(1.4, 1.4)
+
 [node name="TileMap" type="TileMap" parent="."]
 y_sort_enabled = true
 tile_set = SubResource("TileSet_a2ruc")
@@ -372,8 +376,8 @@ layer_2/tile_data = PackedInt32Array(-196615, 327682, 2, -131079, 327682, 3, -19
 
 [node name="player" parent="." instance=ExtResource("1_3wihk")]
 position = Vector2(0, -2)
-collision_layer = 2
-collision_mask = 1
+collision_layer = 132
+collision_mask = 131
 
 [node name="Camera2D" type="Camera2D" parent="player"]
 position = Vector2(0, 2)
@@ -384,6 +388,7 @@ limit_right = 176
 limit_bottom = 126
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
+collision_layer = 2
 collision_mask = 0
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
@@ -391,6 +396,3 @@ polygon = PackedVector2Array(-131, 78, 133, 80, 133, -85, -133, -87, -132, 76, -
 
 [node name="CollisionPolygon2D2" type="CollisionPolygon2D" parent="StaticBody2D"]
 polygon = PackedVector2Array(-44, 21, -84, 20, -90, 26, -91, 66, -86, 74, -59, 74, -54, 68, -54, 46, -44, 46, -39, 40, -36, 33, -36, 26)
-
-[node name="coconutPalmTree" parent="." instance=ExtResource("8_bbd0w")]
-position = Vector2(35, -50)
