@@ -1,4 +1,4 @@
-[gd_scene load_steps=30 format=3 uid="uid://ccqixd71au2xk"]
+[gd_scene load_steps=29 format=3 uid="uid://ccqixd71au2xk"]
 
 [ext_resource type="Script" path="res://script/player.gd" id="1_7daut"]
 [ext_resource type="Texture2D" uid="uid://ddoayw6jivqfp" path="res://art/hlbkfgX.png" id="2_yy0yx"]
@@ -226,9 +226,9 @@ animations = [{
 "speed": 6.0
 }]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_72lqk"]
-
 [node name="player" type="CharacterBody2D"]
+collision_layer = 144
+collision_mask = 128
 script = ExtResource("1_7daut")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
@@ -236,6 +236,7 @@ sprite_frames = SubResource("SpriteFrames_wvo4g")
 animation = &"Idle"
 frame_progress = 0.274464
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+y_sort_enabled = true
 position = Vector2(0, 4)
-shape = SubResource("RectangleShape2D_72lqk")
+polygon = PackedVector2Array(8, 10, -8, 10, -8, 5, 8, 5)
