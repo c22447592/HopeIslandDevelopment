@@ -471,7 +471,6 @@ y_sort_enabled = true
 
 [node name="coconutPalmTree2" parent="." instance=ExtResource("8_bbd0w")]
 position = Vector2(57, 12)
-scale = Vector2(1.4, 1.4)
 
 [node name="TileMap" type="TileMap" parent="."]
 y_sort_enabled = true
