@@ -11,9 +11,10 @@ config_version=5
 [application]
 
 config/name="Hope Island"
-run/main_scene="res://scenes/test_zone_amir.tscn"
+config/description="Island Dungeon Crawler Alpha"
+config/version="0.1.0"
+run/main_scene="res://Player/player.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
-config/icon="res://icon.svg"
 
 [input]
 
