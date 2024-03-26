@@ -1,17 +1,10 @@
-[gd_scene load_steps=18 format=3 uid="uid://c6l5lc56tg8am"]
+[gd_scene load_steps=12 format=3 uid="uid://c6l5lc56tg8am"]
 
 [ext_resource type="PackedScene" uid="uid://ccqixd71au2xk" path="res://scenes/test_player.tscn" id="1_3wihk"]
-[ext_resource type="Texture2D" uid="uid://b6mmwf5ynqoha" path="res://art/MiniWorldSprites/Ground/TexturedGrass.png" id="1_dl0fk"]
-[ext_resource type="Texture2D" uid="uid://mgvbeftg3r7c" path="res://art/MiniWorldSprites/Ground/DeadGrass.png" id="2_j6syq"]
-[ext_resource type="Texture2D" uid="uid://3lpv0hpvnfpm" path="res://art/MiniWorldSprites/Ground/Cliff.png" id="3_8u5um"]
-[ext_resource type="Texture2D" uid="uid://bmu6pvk22dtan" path="res://art/MiniWorldSprites/Ground/Cliff-Water.png" id="4_8yu71"]
-[ext_resource type="Texture2D" uid="uid://ck8ox3ivq6nc4" path="res://art/MiniWorldSprites/Ground/Grass.png" id="5_w8tf5"]
-[ext_resource type="Texture2D" uid="uid://c78g66n6o0gou" path="res://art/MiniWorldSprites/Ground/Shore.png" id="6_g5f5b"]
 [ext_resource type="Texture2D" uid="uid://xt3i26lysk35" path="res://art/Items/Food/Sprite-0002.png" id="8_74vuf"]
 [ext_resource type="PackedScene" uid="uid://xiwgrq0vtpcu" path="res://scenes/coconut_palm_tree.tscn" id="8_bbd0w"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ulpc5"]
-texture = ExtResource("1_dl0fk")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -32,7 +25,6 @@ texture = ExtResource("1_dl0fk")
 2:1/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_fiwt4"]
-texture = ExtResource("2_j6syq")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -53,7 +45,6 @@ texture = ExtResource("2_j6syq")
 2:1/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_jp5s6"]
-texture = ExtResource("3_8u5um")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -229,7 +220,6 @@ texture = ExtResource("3_8u5um")
 6:8/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_85p1g"]
-texture = ExtResource("4_8yu71")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -310,7 +300,6 @@ texture = ExtResource("4_8yu71")
 2:5/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_pa5k0"]
-texture = ExtResource("5_w8tf5")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -328,7 +317,6 @@ texture = ExtResource("5_w8tf5")
 4:0/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_aor57"]
-texture = ExtResource("6_g5f5b")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -500,12 +488,14 @@ limit_top = -126
 limit_right = 176
 limit_bottom = 126
 
-[node name="StaticBody2D" type="StaticBody2D" parent="."]
+[node name="StaticBody2D" type="StaticBody2D" parent="player"]
+position = Vector2(0, 2.85714)
+scale = Vector2(1.42857, 1.42857)
 collision_layer = 2
 collision_mask = 0
 
-[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="player/StaticBody2D"]
 polygon = PackedVector2Array(-131, 78, 133, 80, 133, -85, -133, -87, -132, 76, -131, 78, -177, 81, -182, -130, 186, -131, 183, 142, -190, 133, -129, 83, -190, 133, -174, 70, -136, 79)
 
-[node name="CollisionPolygon2D2" type="CollisionPolygon2D" parent="StaticBody2D"]
+[node name="CollisionPolygon2D2" type="CollisionPolygon2D" parent="player/StaticBody2D"]
 polygon = PackedVector2Array(-44, 21, -84, 20, -90, 26, -91, 66, -86, 74, -59, 74, -54, 68, -54, 46, -44, 46, -39, 40, -36, 33, -36, 26)
