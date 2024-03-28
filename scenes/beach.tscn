@@ -1,19 +1,20 @@
-[gd_scene load_steps=36 format=3 uid="uid://daqx0hyg33hid"]
+[gd_scene load_steps=35 format=3 uid="uid://daqx0hyg33hid"]
 
-[ext_resource type="PackedScene" uid="uid://ccqixd71au2xk" path="res://scenes/test_player.tscn" id="1_clxes"]
-[ext_resource type="Texture2D" uid="uid://gystm2p42fpi" path="res://tilesets/grassland-tileset/PNG/Details.png" id="2_g3p7r"]
-[ext_resource type="Texture2D" uid="uid://0qv7fe44tkmt" path="res://tilesets/forest-tileset/PNG/Objects.png" id="2_ks5vf"]
-[ext_resource type="Texture2D" uid="uid://cyq8l66rcd18p" path="res://tilesets/forest-tileset/PNG/spots_lianas.png" id="3_3jdpw"]
-[ext_resource type="Texture2D" uid="uid://vjfme3m3f5d3" path="res://tilesets/grassland-tileset/PNG/ground_grasss.png" id="3_lb8rv"]
-[ext_resource type="Texture2D" uid="uid://dvbfq1rpnl08v" path="res://tilesets/grassland-tileset/PNG/Trees_rocks.png" id="4_i2hc4"]
-[ext_resource type="Texture2D" uid="uid://dtghp8xrum4a6" path="res://tilesets/grassland-tileset/PNG/Water_coasts.png" id="5_x6k2t"]
-[ext_resource type="Texture2D" uid="uid://pbscw12pcfj8" path="res://tilesets/grassland-tileset/PNG/water_detilazation.png" id="6_76uh5"]
-[ext_resource type="Texture2D" uid="uid://f441cuo15woh" path="res://tilesets/grassland-tileset/PNG/water_detilazation_v2.png" id="7_ub0bx"]
-[ext_resource type="Texture2D" uid="uid://pakdvchj1dom" path="res://tilesets/rockyLand-tileset/PNG/Water_coasts.png" id="8_osgkd"]
-[ext_resource type="Texture2D" uid="uid://f4mnp4507fgh" path="res://tilesets/rockyLand-tileset/PNG/waterfall.png" id="9_yn7ip"]
-[ext_resource type="Texture2D" uid="uid://c8tft22opwea5" path="res://tilesets/rockyLand-tileset/PNG/Water_under_objects.png" id="10_ew3ph"]
-[ext_resource type="Texture2D" uid="uid://cfccdrhyr2byj" path="res://tilesets/forest-tileset/PNG/Water_lilis.png" id="11_5c1ql"]
-[ext_resource type="Texture2D" uid="uid://debuoqwa3juyu" path="res://tilesets/forest-tileset/PNG/Ground_grass.png" id="12_2rl5o"]
+[ext_resource type="Script" path="res://script/beach.gd" id="1_gajgq"]
+[ext_resource type="PackedScene" uid="uid://ccqixd71au2xk" path="res://scenes/test_player.tscn" id="2_uue36"]
+[ext_resource type="Texture2D" uid="uid://0qv7fe44tkmt" path="res://tilesets/forest-tileset/PNG/Objects.png" id="3_j281v"]
+[ext_resource type="Texture2D" uid="uid://cyq8l66rcd18p" path="res://tilesets/forest-tileset/PNG/spots_lianas.png" id="4_yvm8c"]
+[ext_resource type="Texture2D" uid="uid://gystm2p42fpi" path="res://tilesets/grassland-tileset/PNG/Details.png" id="5_tnwcn"]
+[ext_resource type="Texture2D" uid="uid://vjfme3m3f5d3" path="res://tilesets/grassland-tileset/PNG/ground_grasss.png" id="6_fbhxc"]
+[ext_resource type="Texture2D" uid="uid://dvbfq1rpnl08v" path="res://tilesets/grassland-tileset/PNG/Trees_rocks.png" id="7_87nu3"]
+[ext_resource type="Texture2D" uid="uid://dtghp8xrum4a6" path="res://tilesets/grassland-tileset/PNG/Water_coasts.png" id="8_ic5xa"]
+[ext_resource type="Texture2D" uid="uid://pbscw12pcfj8" path="res://tilesets/grassland-tileset/PNG/water_detilazation.png" id="9_oa6i4"]
+[ext_resource type="Texture2D" uid="uid://f441cuo15woh" path="res://tilesets/grassland-tileset/PNG/water_detilazation_v2.png" id="10_icfi4"]
+[ext_resource type="Texture2D" uid="uid://pakdvchj1dom" path="res://tilesets/rockyLand-tileset/PNG/Water_coasts.png" id="11_mu4k2"]
+[ext_resource type="Texture2D" uid="uid://f4mnp4507fgh" path="res://tilesets/rockyLand-tileset/PNG/waterfall.png" id="12_abwcr"]
+[ext_resource type="Texture2D" uid="uid://debuoqwa3juyu" path="res://tilesets/forest-tileset/PNG/Ground_grass.png" id="13_ghbvl"]
+[ext_resource type="Texture2D" uid="uid://c8tft22opwea5" path="res://tilesets/rockyLand-tileset/PNG/Water_under_objects.png" id="14_4i5ek"]
+[ext_resource type="Texture2D" uid="uid://cfccdrhyr2byj" path="res://tilesets/forest-tileset/PNG/Water_lilis.png" id="15_a300y"]
 
 [sub_resource type="TileMapPattern" id="TileMapPattern_s3p83"]
 tile_data = PackedInt32Array(0, 65550, 25)
@@ -28,7 +29,7 @@ tile_data = PackedInt32Array(0, 14, 19, 196608, 65550, 25)
 tile_data = PackedInt32Array(131072, 458766, 20, 1, 589838, 19)
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_2hsbn"]
-texture = ExtResource("2_ks5vf")
+texture = ExtResource("3_j281v")
 3:0/0 = 0
 3:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 3:0/0/physics_layer_0/angular_velocity = 0.0
@@ -2145,7 +2146,7 @@ texture = ExtResource("2_ks5vf")
 25:5/0/physics_layer_0/polygon_0/points = PackedVector2Array(-7.75, 19.5, -3.5, 14.75, 4, 15.75, 9, 20, 4, 24, -2, 24.25)
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_r86u4"]
-texture = ExtResource("3_3jdpw")
+texture = ExtResource("4_yvm8c")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -3996,7 +3997,7 @@ texture = ExtResource("3_3jdpw")
 18:33/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ikjib"]
-texture = ExtResource("2_g3p7r")
+texture = ExtResource("5_tnwcn")
 0:0/0 = 0
 0:0/0/y_sort_origin = -100
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
@@ -4326,7 +4327,7 @@ texture = ExtResource("2_g3p7r")
 4:11/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_26sr0"]
-texture = ExtResource("3_lb8rv")
+texture = ExtResource("6_fbhxc")
 0:0/0 = 0
 0:0/0/y_sort_origin = -100
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
@@ -5605,7 +5606,7 @@ texture = ExtResource("3_lb8rv")
 20:15/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_r7ebb"]
-texture = ExtResource("4_i2hc4")
+texture = ExtResource("7_87nu3")
 0:0/size_in_atlas = Vector2i(4, 5)
 0:0/0 = 0
 0:0/0/y_sort_origin = 9
@@ -5910,7 +5911,7 @@ texture = ExtResource("4_i2hc4")
 0:25/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_dxbsc"]
-texture = ExtResource("5_x6k2t")
+texture = ExtResource("8_ic5xa")
 0:0/0 = 0
 0:0/0/y_sort_origin = -100
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
@@ -8333,7 +8334,7 @@ texture = ExtResource("5_x6k2t")
 15:35/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4ab7t"]
-texture = ExtResource("6_76uh5")
+texture = ExtResource("9_oa6i4")
 1:0/0 = 0
 1:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:0/0/physics_layer_0/angular_velocity = 0.0
@@ -11417,7 +11418,7 @@ texture = ExtResource("6_76uh5")
 42:35/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_opws2"]
-texture = ExtResource("7_ub0bx")
+texture = ExtResource("10_icfi4")
 1:0/0 = 0
 1:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:0/0/physics_layer_0/angular_velocity = 0.0
@@ -14456,7 +14457,7 @@ texture = ExtResource("7_ub0bx")
 12:35/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_63a8j"]
-texture = ExtResource("8_osgkd")
+texture = ExtResource("11_mu4k2")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -16373,7 +16374,7 @@ texture = ExtResource("8_osgkd")
 20:29/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_nbdps"]
-texture = ExtResource("9_yn7ip")
+texture = ExtResource("12_abwcr")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -17186,7 +17187,7 @@ texture = ExtResource("9_yn7ip")
 8:29/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_bljec"]
-texture = ExtResource("12_2rl5o")
+texture = ExtResource("13_ghbvl")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -18482,7 +18483,7 @@ texture = ExtResource("12_2rl5o")
 18:22/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ku17s"]
-texture = ExtResource("10_ew3ph")
+texture = ExtResource("14_4i5ek")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -19823,7 +19824,7 @@ texture = ExtResource("10_ew3ph")
 14:41/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rj0g4"]
-texture = ExtResource("11_5c1ql")
+texture = ExtResource("15_a300y")
 1:0/0 = 0
 1:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:0/0/physics_layer_0/angular_velocity = 0.0
@@ -20271,20 +20272,15 @@ pattern_1 = SubResource("TileMapPattern_vri2q")
 pattern_2 = SubResource("TileMapPattern_e1qux")
 pattern_3 = SubResource("TileMapPattern_xowum")
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_ak51j"]
-size = Vector2(1021, 20)
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ilk7o"]
+size = Vector2(96, 10)
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_opybg"]
-size = Vector2(1021, 20)
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_yxfha"]
-size = Vector2(556.75, 20)
-
-[node name="island" type="Node2D"]
+[node name="beachScene" type="Node2D"]
 y_sort_enabled = true
+script = ExtResource("1_gajgq")
 metadata/_edit_horizontal_guides_ = [-22.0, -127.0]
 
-[node name="testPlayer" parent="." instance=ExtResource("1_clxes")]
+[node name="testPlayer" parent="." instance=ExtResource("2_uue36")]
 z_index = 2
 collision_layer = 1
 collision_mask = 1
@@ -20321,20 +20317,13 @@ layer_3/tile_data = PackedInt32Array(458780, 917504, 0, 393244, 1245184, 0, 2621
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 position = Vector2(13, 118)
 
-[node name="BorderNorth" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(7, -270)
-shape = SubResource("RectangleShape2D_ak51j")
+[node name="CollisionBorder" type="CollisionPolygon2D" parent="StaticBody2D"]
+polygon = PackedVector2Array(-487, -376, -55, -377, -54, -390, 42, -390, 42, -378, 486, -378, 485, 125, -497, 125, -495, -376, -539, -376, -536, 177, 630, 181, 614, -447, -490, -463)
 
-[node name="BorderSouth" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(9, 250)
-shape = SubResource("RectangleShape2D_opybg")
+[node name="exitArea" type="Area2D" parent="."]
 
-[node name="BorderEast" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(503, -16.375)
-rotation = 1.5708
-shape = SubResource("RectangleShape2D_yxfha")
+[node name="CollisionShape2D" type="CollisionShape2D" parent="exitArea"]
+position = Vector2(7, -267)
+shape = SubResource("RectangleShape2D_ilk7o")
 
-[node name="BorderWest" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(-490, -15)
-rotation = 1.5708
-shape = SubResource("RectangleShape2D_yxfha")
+[connection signal="body_entered" from="exitArea" to="." method="_on_exit_area_body_entered"]
