@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dlayjcktrnq8q"
+=======
+uid="uid://202nlhe83c4"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Bones_shadow3_11.png-82a73023a76b819ed1285ebeff17b203.ctex"
 metadata={
 "vram_texture": false

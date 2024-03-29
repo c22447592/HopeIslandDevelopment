@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://5y77omdbc83w"
+=======
+uid="uid://2aigku0in62r"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Wall_mushrooms4.png-e25bb70fe2de79d759a7bffe0af6f716.ctex"
 metadata={
 "vram_texture": false

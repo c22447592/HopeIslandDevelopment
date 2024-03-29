@@ -16,6 +16,10 @@ config/version="0.1.0"
 run/main_scene="res://Player/player.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 
+[autoload]
+
+Global="*res://script/global.gd"
+
 [input]
 
 left={

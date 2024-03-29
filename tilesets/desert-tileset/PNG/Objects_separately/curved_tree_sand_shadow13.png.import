@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://uw204ovyia6b"
+=======
+uid="uid://35uytwvresyc"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/curved_tree_sand_shadow13.png-27d16b3355fb85940264190b2b6b3bff.ctex"
 metadata={
 "vram_texture": false

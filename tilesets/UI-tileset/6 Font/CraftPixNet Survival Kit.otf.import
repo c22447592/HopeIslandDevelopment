@@ -2,7 +2,11 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://cjyxdrwiuyg6"
+=======
+uid="uid://7cjy6kxkr2ml"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/CraftPixNet Survival Kit.otf-ef3b33a1e3e83d8ef10e350e4ed8ed3c.fontdata"
 
 [deps]

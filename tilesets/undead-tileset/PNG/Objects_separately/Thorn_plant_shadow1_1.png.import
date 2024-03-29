@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c8p8ysebd3xtf"
+=======
+uid="uid://c2h1f8xhd04rn"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Thorn_plant_shadow1_1.png-d1f6be4bb58b5b946fde4069992fe622.ctex"
 metadata={
 "vram_texture": false

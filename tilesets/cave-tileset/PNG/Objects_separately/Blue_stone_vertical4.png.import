@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cm51l10ottyea"
+=======
+uid="uid://upkacpvjvjoa"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Blue_stone_vertical4.png-6e71a5e85830ebb3eb8093bdd1aeee69.ctex"
 metadata={
 "vram_texture": false

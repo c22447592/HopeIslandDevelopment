@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cvo0c7ketnvah"
+=======
+uid="uid://db836p4rqkk2b"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Scrolling_line.png-9b7795f40776c36c83612f6926523eec.ctex"
 metadata={
 "vram_texture": false
