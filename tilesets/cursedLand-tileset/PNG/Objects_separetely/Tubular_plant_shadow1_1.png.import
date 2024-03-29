@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://coe8bu6r2rxb7"
+=======
 uid="uid://dnhmtjnww7cxb"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Tubular_plant_shadow1_1.png-b83fe6ac06aa96f980fef96d9e5329c2.ctex"
 metadata={
 "vram_texture": false

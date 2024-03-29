@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://dnkwjidiyxael"
+=======
 uid="uid://bup2fuixxq3gr"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Cactus1_sand_shadow1.png-20408db1a77837764f1925d9dafa79ee.ctex"
 metadata={
 "vram_texture": false

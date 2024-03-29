@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://7vjdxftwecxe"
+=======
 uid="uid://bhpow3y0o1f4c"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Dead_arm_shadow1_4.png-ca50348b7e14820ab4fe18e0352acc9e.ctex"
 metadata={
 "vram_texture": false

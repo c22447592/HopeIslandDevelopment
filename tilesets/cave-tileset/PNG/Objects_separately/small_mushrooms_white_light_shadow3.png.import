@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://b0hlk8og2uk4w"
+=======
 uid="uid://w555061c5y5y"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/small_mushrooms_white_light_shadow3.png-54e34692f834a20d9fd22da85abcc2d4.ctex"
 metadata={
 "vram_texture": false

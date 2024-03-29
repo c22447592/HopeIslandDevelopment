@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://r6lkktisiyn4"
+=======
 uid="uid://63gf2ilsks0s"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Red_stone_vertical1.png-185a1660a30f40032a239db9558f6b7b.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://sd3jary2eoo7"
+=======
 uid="uid://cspw2vwlhqw5m"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Volcano2_light_shadow_frame6.png-3b58fc12ed6bea2fd7051233df270b11.ctex"
 metadata={
 "vram_texture": false

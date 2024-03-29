@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://b3dhyl0h2267j"
+=======
 uid="uid://oeskifmemcua"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Scull_door_shadow3.png-617af20367730a12333dfdf0016fc9df.ctex"
 metadata={
 "vram_texture": false

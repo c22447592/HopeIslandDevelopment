@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://doissf2ndchsp"
+=======
 uid="uid://bt0gi14rmarx3"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Brown_stone_ground1.png-71042bfd870ed6ddc16288f45c8499d9.ctex"
 metadata={
 "vram_texture": false

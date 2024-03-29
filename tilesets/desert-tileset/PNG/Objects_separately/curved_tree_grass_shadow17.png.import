@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://bcxyvy77j5kb8"
+=======
 uid="uid://738vesy55cdw"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/curved_tree_grass_shadow17.png-1da8c7868d3279c8d9ad7d296a45ff67.ctex"
 metadata={
 "vram_texture": false

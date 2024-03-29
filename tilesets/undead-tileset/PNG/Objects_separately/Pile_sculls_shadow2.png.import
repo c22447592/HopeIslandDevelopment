@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://bos23lx553y60"
+=======
 uid="uid://dh7km6ej563i6"
+>>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474
 path="res://.godot/imported/Pile_sculls_shadow2.png-d0f2604537f573b8a3852e2c387240cb.ctex"
 metadata={
 "vram_texture": false
