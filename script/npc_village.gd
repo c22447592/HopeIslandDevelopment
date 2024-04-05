@@ -12,25 +12,25 @@ func _process(delta):
 
 
 func _on_beach_entrance_body_entered(body):
-	if body.has_method("Player"):
+	if body.has_method("player"):
 		Global.transition_state = true
 		Global.scene_destination = 'beach'
 
 
 func _on_west_entrance_body_entered(body):
-	if body.has_method("Player"):
+	if body.has_method("player"):
 		Global.transition_state = true
 		Global.scene_destination = ''
 
 
 func _on_east_entrance_body_entered(body):
-	if body.has_method("Player"):
+	if body.has_method("player"):
 		Global.transition_state = true
 		Global.scene_destination = ''
 
 
 func _on_north_entrance_body_entered(body):
-	if body.has_method("Player"):
+	if body.has_method("player"):
 		Global.transition_state = true
 		Global.scene_destination = ''
 
