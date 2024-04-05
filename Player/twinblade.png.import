@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw8rentb8vpyf"
-path="res://.godot/imported/one_0916_v01.png-6cf0e679137df32986680586b64d929e.ctex"
+path="res://.godot/imported/twinblade.png-c40f9623cdcb023df3194cf0e802283d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Player/twin-blade sword/weapon sprites/one_0916_v01.png"
-dest_files=["res://.godot/imported/one_0916_v01.png-6cf0e679137df32986680586b64d929e.ctex"]
+source_file="res://Player/twinblade.png"
+dest_files=["res://.godot/imported/twinblade.png-c40f9623cdcb023df3194cf0e802283d.ctex"]
 
 [params]
 

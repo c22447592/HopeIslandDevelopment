@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bonsjrx24tfl1"
-path="res://.godot/imported/one_0108_v01.png-5f8b47b273f25f3afb165c909791a643.ctex"
+path="res://.godot/imported/sword-axe-mace.png-c751afa57be90d324169736272a1699b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Player/21.07b - Sword & Shield Combat 2.3/weapon sprites/one_0108_v01.png"
-dest_files=["res://.godot/imported/one_0108_v01.png-5f8b47b273f25f3afb165c909791a643.ctex"]
+source_file="res://Player/sword-axe-mace.png"
+dest_files=["res://.godot/imported/sword-axe-mace.png-c751afa57be90d324169736272a1699b.ctex"]
 
 [params]
 
