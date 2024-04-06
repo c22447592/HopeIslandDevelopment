@@ -1,5 +1,7 @@
 extends Node
 
+var player_current_attack = false
+
 var current_scene = 'beach' #initialise variable to spawn beach
 var transition_scene = false #initialise transition state
 

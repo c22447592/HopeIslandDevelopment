@@ -1,5 +1,11 @@
 extends CharacterBody2D
 
+var health = 100
+var player_alive = true
+var attack_in_progress = false
+var enemy_inattack_range = false
+var enemy_attack_cooldown = true
+
 const speed = 100
 var current_dir = "none"
 
@@ -7,7 +13,14 @@ func _ready():
 	pass
 
 func _physics_process(delta):
-	player_movement(delta)	
+	player_movement(delta)
+	enemy_attack()
+	
+	if health <= 0:
+		player_alive = false
+		health = 0
+		print("You have fallen...")
+		self.queue_free() #change this to transition to an end screen
 	
 func player_movement(delta):
 	if Input.is_action_pressed("ui_right"):
@@ -67,3 +80,24 @@ func play_anim(movement):
 			anim.play("walk-down")
 		elif movement == 0:
 			anim.play("idle-front")
+
+func player():
+	pass
+
+func _on_player_hitbox_body_entered(body):
+	if body.has_method("enemy"):
+		enemy_inattack_range = true
+	
+func _on_player_hitbox_body_exited(body):
+	if body.has_method("enemy"):
+		enemy_inattack_range = false
+
+func enemy_attack():
+	if enemy_inattack_range and enemy_attack_cooldown == true:
+		health = health - 10
+		enemy_attack_cooldown = false
+		$attackCooldown.start()
+		print("You have been hit, health is at ", health)
+		
+func _on_attack_cooldown_timeout():
+	enemy_attack_cooldown = true
