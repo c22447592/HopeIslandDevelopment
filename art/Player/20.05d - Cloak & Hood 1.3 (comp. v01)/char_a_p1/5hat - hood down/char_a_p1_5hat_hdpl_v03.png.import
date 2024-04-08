@@ -2,26 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD:art/Player/20.05d - Cloak & Hood 1.3 (comp. v01)/char_a_p1/5hat - hood down/char_a_p1_5hat_hdpl_v03.png.import
-uid="uid://c46xvq74gwh03"
+uid="uid://ba16sxw0uqmn2"
 path="res://.godot/imported/char_a_p1_5hat_hdpl_v03.png-c5351f0344dd7602dbe3d2bb84b2d354.ctex"
-=======
-uid="uid://dtpyp3pjcvaa7"
-path="res://.godot/imported/char_a_p1_5hat_hdpl_v03.png-b4d85782c9c7fa6e8fda95d59b440c1e.ctex"
->>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474:art/Player/20.05d - Cloak & Hood 1.3 (comp. v01)/char_a_p1/5hat/char_a_p1_5hat_hdpl_v03.png.import
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-<<<<<<< HEAD:art/Player/20.05d - Cloak & Hood 1.3 (comp. v01)/char_a_p1/5hat - hood down/char_a_p1_5hat_hdpl_v03.png.import
 source_file="res://art/Player/20.05d - Cloak & Hood 1.3 (comp. v01)/char_a_p1/5hat - hood down/char_a_p1_5hat_hdpl_v03.png"
 dest_files=["res://.godot/imported/char_a_p1_5hat_hdpl_v03.png-c5351f0344dd7602dbe3d2bb84b2d354.ctex"]
-=======
-source_file="res://art/Player/20.05d - Cloak & Hood 1.3 (comp. v01)/char_a_p1/5hat/char_a_p1_5hat_hdpl_v03.png"
-dest_files=["res://.godot/imported/char_a_p1_5hat_hdpl_v03.png-b4d85782c9c7fa6e8fda95d59b440c1e.ctex"]
->>>>>>> 1c82aca790fd90a9b8efac783f143acc90ad0474:art/Player/20.05d - Cloak & Hood 1.3 (comp. v01)/char_a_p1/5hat/char_a_p1_5hat_hdpl_v03.png.import
 
 [params]
 
