@@ -1,4 +1,4 @@
-[gd_scene load_steps=56 format=3 uid="uid://bbgfgsq5ad0vj"]
+[gd_scene load_steps=62 format=3 uid="uid://bbgfgsq5ad0vj"]
 
 [ext_resource type="Script" path="res://script/Player.gd" id="1_hybb6"]
 [ext_resource type="Texture2D" uid="uid://dmddp1sgxhb6e" path="res://Player/Player-combat.png" id="2_cjs0e"]
@@ -99,6 +99,30 @@ region = Rect2(128, 64, 64, 64)
 [sub_resource type="AtlasTexture" id="AtlasTexture_xwe4i"]
 atlas = ExtResource("2_cjs0e")
 region = Rect2(192, 64, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cw8p4"]
+atlas = ExtResource("3_5sje8")
+region = Rect2(0, 256, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7ntix"]
+atlas = ExtResource("3_5sje8")
+region = Rect2(64, 256, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a0es8"]
+atlas = ExtResource("3_5sje8")
+region = Rect2(128, 256, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pw1m2"]
+atlas = ExtResource("3_5sje8")
+region = Rect2(192, 256, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_j5v36"]
+atlas = ExtResource("3_5sje8")
+region = Rect2(256, 256, 64, 64)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7jsal"]
+atlas = ExtResource("3_5sje8")
+region = Rect2(320, 256, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_lb6rf"]
 atlas = ExtResource("3_5sje8")
@@ -310,6 +334,29 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
+"texture": SubResource("AtlasTexture_cw8p4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7ntix")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a0es8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_pw1m2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_j5v36")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7jsal")
+}],
+"loop": true,
+"name": &"beach-spawn",
+"speed": 3.0
+}, {
+"frames": [{
+"duration": 1.0,
 "texture": SubResource("AtlasTexture_lb6rf")
 }, {
 "duration": 1.0,
@@ -435,7 +482,7 @@ position = Vector2(-135, 380)
 scale = Vector2(3.35938, 2.84375)
 sprite_frames = SubResource("SpriteFrames_s1siu")
 animation = &"attack-down-spear"
-frame_progress = 0.885004
+frame_progress = 0.573249
 offset = Vector2(40, -150)
 
 [node name="playerHitbox" type="Area2D" parent="."]
