@@ -435,7 +435,7 @@ position = Vector2(-135, 380)
 scale = Vector2(3.35938, 2.84375)
 sprite_frames = SubResource("SpriteFrames_s1siu")
 animation = &"attack-down-spear"
-frame_progress = 0.584959
+frame_progress = 0.885004
 offset = Vector2(40, -150)
 
 [node name="playerHitbox" type="Area2D" parent="."]
