@@ -1,4 +1,4 @@
-[gd_scene load_steps=22 format=3 uid="uid://bbgfgsq5ad0vj"]
+[gd_scene load_steps=23 format=3 uid="uid://bbgfgsq5ad0vj"]
 
 [ext_resource type="Script" path="res://script/Player.gd" id="1_hybb6"]
 [ext_resource type="Texture2D" uid="uid://ceb0t6hygru3p" path="res://Player/Player-walking-no-item.png" id="2_ttekc"]
@@ -167,15 +167,24 @@ animations = [{
 "speed": 5.0
 }]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_e2jvn"]
+size = Vector2(51, 22)
+
 [node name="Player" type="CharacterBody2D"]
+z_index = 2
+y_sort_enabled = true
 script = ExtResource("1_hybb6")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(-58.875, 336.281)
+z_index = 2
+y_sort_enabled = true
+position = Vector2(-113, 323)
 scale = Vector2(3.35938, 2.84375)
 sprite_frames = SubResource("SpriteFrames_s1siu")
 animation = &"walk-sideways"
 frame_progress = 0.525678
 offset = Vector2(40, -139)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(1.5, 1)
+shape = SubResource("RectangleShape2D_e2jvn")

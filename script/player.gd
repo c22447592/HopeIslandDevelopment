@@ -1,69 +1,46 @@
 extends CharacterBody2D
 
-const speed = 100
-var current_dir = "none"
+var speed = 100
 
-func _ready():
-	pass
+var playerState #variable for which sprite to use
 
+#movement function
 func _physics_process(delta):
-	player_movement(delta)	
+	var direction = Input.get_vector("left", "right", "up", "down") #variable that takes in keyboard input
 	
-func player_movement(delta):
-	if Input.is_action_pressed("ui_right"):
-		current_dir = "right"
-		play_anim(1)
-		velocity.x = speed
-		velocity.y = 0
-	elif Input.is_action_pressed("ui_left"):
-		current_dir = "left"
-		play_anim(1)
-		velocity.x = -speed
-		velocity.y = 0
-	elif Input.is_action_pressed("ui_up"):
-		current_dir = "up"
-		play_anim(1)
-		velocity.x = 0
-		velocity.y = -speed
-	elif Input.is_action_pressed("ui_down"):
-		current_dir = "down"
-		play_anim(1)
-		velocity.x = 0
-		velocity.y = speed
+	# idle state
+	if direction.x == 0 and direction.y == 0:
+		playerState = "Idle"
 	else:
-		play_anim(0)
-		velocity.x = 0
-		velocity.y = 0
-		#else statement states that the player is to stop in position when not being moved
-		
+		playerState = "walking"
+
+	velocity = direction * speed
 	move_and_slide()
+	
+	play_anim(direction, playerState)
+	
+func play_anim(dir, state):
+	if state == "Idle":
+		$AnimatedSprite2D.play("Idle")
 		
-func play_anim(movement):
-	var dir = current_dir
-	var anim = $AnimatedSprite2D
-	#left and right directional movement
-	if dir == "right":
-		anim.flip_h = false
-		if movement == 1:
-			anim.play("walk-sideways")
-		elif movement == 0:
-			anim.play("idle-side")
-	if dir == "left":
-		anim.flip_h = true
-		if movement == 1:
-			anim.play("walk-sideways")
-		elif movement == 0:
-			anim.play("idle-side")
-	#up and down directional movement
-	if dir == "up":
-		anim.flip_h = false
-		if movement == 1:
-			anim.play("walk-up")
-		elif movement == 0:
-			anim.play("idle-back")
-	if dir == "down":
-		anim.flip_h = false
-		if movement == 1:
-			anim.play("walk-down")
-		elif movement == 0:
-			anim.play("idle-front")
+	if state == "walking":
+		if dir.y == -1:
+			$AnimatedSprite2D.play("N-walk")
+		if dir.x == 1:
+			$AnimatedSprite2D.play("E-walk")
+		if dir.x == -1:
+			$AnimatedSprite2D.play("W-walk")
+		if dir.y == 1:
+			$AnimatedSprite2D.play("S-walk")
+
+		if dir.x > 0.5 and dir.y < -0.5:
+			$AnimatedSprite2D.play("NE-walk")
+		if dir.x > 0.5 and dir.y > 0.5:
+			$AnimatedSprite2D.play("SE-walk")
+		if dir.x < -0.5 and dir.y > 0.5:
+			$AnimatedSprite2D.play("SW-walk")
+		if dir.x < -0.5 and dir.y < -0.5:
+			$AnimatedSprite2D.play("NW-walk")
+	
+func player():
+	pass
