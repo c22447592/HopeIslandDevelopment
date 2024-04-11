@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dv5jc50pwhhgg"
+=======
+uid="uid://b4b0d8xssnex3"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Demon_head_dark_shadow_frame5.png-f26dd4631511637cf21eaccc6604a185.ctex"
 metadata={
 "vram_texture": false

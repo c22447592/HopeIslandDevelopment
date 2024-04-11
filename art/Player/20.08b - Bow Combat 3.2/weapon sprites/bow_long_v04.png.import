@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cxvpdjwgbi2yf"
+=======
+uid="uid://cgmm3nougwt3j"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/bow_long_v04.png-a6b02d4dea94615b153777308ef4a94c.ctex"
 metadata={
 "vram_texture": false

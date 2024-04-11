@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c2w57tah3fuij"
+=======
+uid="uid://cwtfmi5kmw4vb"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Thorn_palnt_shadow2_5.png-06077c856a7a93eaf882ac903c8b8649.ctex"
 metadata={
 "vram_texture": false

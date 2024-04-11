@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://u2ewcpycwcvy"
+=======
+uid="uid://c1e66tghwjlod"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/animations, page POLearm 2.png-09ee4c643b4e7c2f3028306f2a69582e.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bclu0ra5esp7l"
+=======
+uid="uid://bgrdviryrf10"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/gray_stalagmites_dark_shadow2.png-37917a5f388822457e1740532acecaea.ctex"
 metadata={
 "vram_texture": false

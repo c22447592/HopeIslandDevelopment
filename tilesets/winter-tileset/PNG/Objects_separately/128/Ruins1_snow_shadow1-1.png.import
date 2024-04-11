@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dk5lgt1oi510y"
+=======
+uid="uid://dqil6d41g8f1o"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Ruins1_snow_shadow1-1.png-6405a4ef60768500fa2f04f42ecbe921.ctex"
 metadata={
 "vram_texture": false

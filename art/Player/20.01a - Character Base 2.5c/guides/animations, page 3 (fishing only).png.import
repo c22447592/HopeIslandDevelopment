@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dxd4jgqmk6vs7"
+=======
+uid="uid://dlxrcbqsbe46x"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/animations, page 3 (fishing only).png-150cc3a80a84980018a82793faa6e01f.ctex"
 metadata={
 "vram_texture": false

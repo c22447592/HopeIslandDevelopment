@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://47rxkb1bshuq"
+=======
+uid="uid://b53n6chvdmtrg"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Water_rocks1_frame3.png-705de820c486ea1b98d5fd02febc9d67.ctex"
 metadata={
 "vram_texture": false

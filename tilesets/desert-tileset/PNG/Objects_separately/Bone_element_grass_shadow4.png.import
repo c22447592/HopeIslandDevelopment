@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://byvj1v7c1i2se"
+=======
+uid="uid://dejfmhcaujhk"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Bone_element_grass_shadow4.png-aa519747f8bf5fbf1ddb696fce3b488e.ctex"
 metadata={
 "vram_texture": false

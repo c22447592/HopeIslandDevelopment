@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://di721ptxic52v"
+=======
+uid="uid://dpptok0x5g3ol"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Waterfalls.png-1b1fc903417fb9da4290dea8dd2c2149.ctex"
 metadata={
 "vram_texture": false

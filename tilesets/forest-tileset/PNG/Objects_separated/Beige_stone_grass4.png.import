@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bdgngiiv725vk"
+=======
+uid="uid://cvhl2ubmvs2jp"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Beige_stone_grass4.png-03469740d053df7070232766ddec38b5.ctex"
 metadata={
 "vram_texture": false

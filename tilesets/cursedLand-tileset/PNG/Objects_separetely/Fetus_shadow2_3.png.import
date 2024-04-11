@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dtshhnhmdc4r8"
+=======
+uid="uid://cu4l5m1o788ek"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Fetus_shadow2_3.png-3a60ffac30e632867245d24b34a6119c.ctex"
 metadata={
 "vram_texture": false

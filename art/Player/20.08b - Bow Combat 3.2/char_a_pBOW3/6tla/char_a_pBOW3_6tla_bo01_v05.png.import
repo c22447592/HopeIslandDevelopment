@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cmw0mbhhnbu00"
+=======
+uid="uid://dxispbl5p8423"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/char_a_pBOW3_6tla_bo01_v05.png-2e29dc67da7ba3f25f9b1dfe7f9e5210.ctex"
 metadata={
 "vram_texture": false

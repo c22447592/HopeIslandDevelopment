@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ctjpl2uwic0np"
+=======
+uid="uid://cx2xerhen4rxa"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Stone1_ground_shadow7.png-6fa4b8d4453819bb528deb526da5428f.ctex"
 metadata={
 "vram_texture": false

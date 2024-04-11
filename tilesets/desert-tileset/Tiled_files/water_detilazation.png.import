@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://da85urng0omq5"
+=======
+uid="uid://csj4js6r5y3b1"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/water_detilazation.png-d094ec9b5762f43a83e93a712a0fbecb.ctex"
 metadata={
 "vram_texture": false

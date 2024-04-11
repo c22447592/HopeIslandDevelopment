@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://djdbsyue00dbt"
+=======
+uid="uid://n4e5xwik0lnu"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/sword & shield effect sprites.png-5728b9c53205eace55bbdc33b71e7f70.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c5vssif5wcn47"
+=======
+uid="uid://cq6lsv7vv4xop"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Ruin4_grass_shadow.png-bed07bd10c4278c90a86981618925e4a.ctex"
 metadata={
 "vram_texture": false

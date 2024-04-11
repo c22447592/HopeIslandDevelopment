@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cforfsusx5m6y"
+=======
+uid="uid://b5ic25lqari7e"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/bow_curv_v05.png-63baeb16aa89285e3ea0793652b8f014.ctex"
 metadata={
 "vram_texture": false

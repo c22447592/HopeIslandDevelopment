@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cc3180lliwf0r"
+=======
+uid="uid://dfpsxaibxviog"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Light_stone_grass3.png-c13ea1aa665c538bf60a768dd0e5304f.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bf341sollbqtv"
+=======
+uid="uid://dhtvw15w7pqws"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/spider_element1_dark_shadow.png-800c9327ba0b0f41c0fa7be6bc22c49a.ctex"
 metadata={
 "vram_texture": false

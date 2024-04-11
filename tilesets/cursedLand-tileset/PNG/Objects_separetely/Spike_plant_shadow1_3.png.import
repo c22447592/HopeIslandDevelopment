@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://d3jweqgo6oypp"
+=======
+uid="uid://ugewclm2t354"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Spike_plant_shadow1_3.png-4f7adc5d05ead3e6c26f8a13d07305b8.ctex"
 metadata={
 "vram_texture": false

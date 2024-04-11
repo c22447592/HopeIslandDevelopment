@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bn3b5d41a4sci"
+=======
+uid="uid://dk7y7ifkmldvn"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/layer order, page ONE-hand 3 (sword).png-491d419d87e4697ab636440246f212a9.ctex"
 metadata={
 "vram_texture": false

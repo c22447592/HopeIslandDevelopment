@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cjnektwqgyjae"
+=======
+uid="uid://ct5x5t7l4bwxk"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/animations, page ONE-hand 2.png-6f2683a62d42773d2717d09d3f0f7973.ctex"
 metadata={
 "vram_texture": false

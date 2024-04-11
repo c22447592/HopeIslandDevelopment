@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://hvq5xyer7g5x"
+=======
+uid="uid://bwrdugsrsuli"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/layer order, page POLearm 1.png-699a226cd0cbbf9b3977db288016ca5f.ctex"
 metadata={
 "vram_texture": false

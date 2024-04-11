@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b3rdp8qhilffy"
+=======
+uid="uid://c43slnixh6lpw"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Slime_musroom_dark_shadow3.png-ba14d0b6830b4ec7ac50488ccf11f0df.ctex"
 metadata={
 "vram_texture": false

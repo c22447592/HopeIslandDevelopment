@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dm4t082tig0cs"
+=======
+uid="uid://ccdnvt3o23sdu"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Bone_element_sand_shadow6.png-31a65d0be32520837c11d0daac7cd574.ctex"
 metadata={
 "vram_texture": false

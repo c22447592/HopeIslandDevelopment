@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://imlav0w6hxfa"
+=======
+uid="uid://brclwfvpvu03"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Rock_eyes_shadow2_2.png-81240b1645a4b4bf2913515f5f0a1c58.ctex"
 metadata={
 "vram_texture": false

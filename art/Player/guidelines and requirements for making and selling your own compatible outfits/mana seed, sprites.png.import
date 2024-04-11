@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://vg305l2a5wmt"
+=======
+uid="uid://bs4bj6o8gtuu1"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/mana seed, sprites.png-b8ccbdd73fe627b4256b865a5ec99091.ctex"
 metadata={
 "vram_texture": false

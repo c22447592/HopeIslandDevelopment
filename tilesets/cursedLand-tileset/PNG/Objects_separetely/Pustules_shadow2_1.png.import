@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bcmfa3svyj6o2"
+=======
+uid="uid://c4y68u0wx6k2w"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Pustules_shadow2_1.png-1430823a1d3ae30c25e7e1babfe53406.ctex"
 metadata={
 "vram_texture": false

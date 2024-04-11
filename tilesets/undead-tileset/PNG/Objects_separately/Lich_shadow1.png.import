@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://21s23mv5nhnd"
+=======
+uid="uid://qvmj1712jvfw"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Lich_shadow1.png-eb811820386f5ec616cafc4f01d7aee3.ctex"
 metadata={
 "vram_texture": false

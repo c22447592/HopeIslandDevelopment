@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bbyb2fefr1fke"
+=======
+uid="uid://c1jfam85clfi7"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Witch_house_grass_shadow1.png-a43716f8e85fea2d46874607c6241f33.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dfddy1fh0bwle"
+=======
+uid="uid://l0c25j8oatvd"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Mushroom1_snow_shadow3.png-24fb23d20aff47ceacf8b15281b58f04.ctex"
 metadata={
 "vram_texture": false

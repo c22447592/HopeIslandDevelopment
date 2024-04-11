@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://chjbei7vwwaf7"
+=======
+uid="uid://hh1haad3bm61"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/layer order, page BOW 1 (bow).png-c098171d975d0428db2de1bdad7be79b.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bkvkjpqkfogld"
+=======
+uid="uid://c64fwtm1v6ejn"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Yellow_stone_vertical2.png-e3cd6a2408cfb43f39e5017a8b434c22.ctex"
 metadata={
 "vram_texture": false

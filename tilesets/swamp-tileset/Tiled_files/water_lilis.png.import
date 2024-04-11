@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bmdqsc1ydi12u"
+=======
+uid="uid://dfffpodt1wi7i"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/water_lilis.png-2feb870d4aa6193a20667487282992cc.ctex"
 metadata={
 "vram_texture": false

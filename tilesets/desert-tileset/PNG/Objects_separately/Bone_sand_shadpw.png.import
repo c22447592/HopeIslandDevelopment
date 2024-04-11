@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://x62oppxvcbyb"
+=======
+uid="uid://dvsh4cmkjwc2i"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Bone_sand_shadpw.png-04503c97729240d28c47e981990fb712.ctex"
 metadata={
 "vram_texture": false

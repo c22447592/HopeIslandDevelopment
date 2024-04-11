@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://d2lau2to18n7c"
+=======
+uid="uid://dyalhru8ke34t"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Lava.png-d5ea9d87c6103d696569e2c41a6b7853.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bkq0anrk7fgav"
+=======
+uid="uid://b5lxiikabhlk4"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Stick_skulls1.png-6eed67a0d0513f8766e18e839a5c64b9.ctex"
 metadata={
 "vram_texture": false

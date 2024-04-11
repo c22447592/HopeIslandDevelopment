@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bk3mavskn46ae"
+=======
+uid="uid://cfnxqono0ywxj"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Veins_shadow1_3.png-70c473466ded5f656a49a55734ab421c.ctex"
 metadata={
 "vram_texture": false

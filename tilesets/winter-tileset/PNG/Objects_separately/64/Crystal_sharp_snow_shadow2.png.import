@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://co0h6hssrhcrb"
+=======
+uid="uid://tqo7u2ksvskn"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Crystal_sharp_snow_shadow2.png-1bc1696683b14ef79670137e556df4ca.ctex"
 metadata={
 "vram_texture": false

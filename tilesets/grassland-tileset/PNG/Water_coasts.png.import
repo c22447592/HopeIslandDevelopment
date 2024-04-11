@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ps48a7ybo1mc"
+=======
+uid="uid://dtomkk475grn5"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Water_coasts.png-d396c2e10de8092775dda32ac60f06ee.ctex"
 metadata={
 "vram_texture": false

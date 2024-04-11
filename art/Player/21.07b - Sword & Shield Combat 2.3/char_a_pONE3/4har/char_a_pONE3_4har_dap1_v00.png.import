@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bpif41q3io0ny"
+=======
+uid="uid://d4lmihkbhkc67"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/char_a_pONE3_4har_dap1_v00.png-54a3985f20f3691882fcbbb73558bd6b.ctex"
 metadata={
 "vram_texture": false

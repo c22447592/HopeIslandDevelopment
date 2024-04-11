@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://djwg6fcvs2k0e"
+=======
+uid="uid://brjkat7x3jlvy"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/layer order, page BOW 3 (quiver).png-085725c93acacb089a983072a9ebf653.ctex"
 metadata={
 "vram_texture": false

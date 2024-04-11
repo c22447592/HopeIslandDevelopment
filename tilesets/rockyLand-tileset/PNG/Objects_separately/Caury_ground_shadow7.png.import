@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://e7jdh85f5k8p"
+=======
+uid="uid://biiyp2nbk2wi4"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Caury_ground_shadow7.png-bde41aa987c2f701dec9cdac4f4379ae.ctex"
 metadata={
 "vram_texture": false

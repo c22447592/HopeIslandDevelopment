@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cuq2xe445wh0x"
+=======
+uid="uid://chlowlogxkqhg"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Meat_flower_shadow2_3.png-d4bad405b7f62fb7788ce88cbf725ccd.ctex"
 metadata={
 "vram_texture": false

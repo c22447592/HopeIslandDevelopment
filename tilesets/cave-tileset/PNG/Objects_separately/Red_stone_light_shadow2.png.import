@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://brmlbn5dvpdp6"
+=======
+uid="uid://dba5rgyn8qdk4"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Red_stone_light_shadow2.png-7f83cb9a5c3b74727a93498f4b6c1839.ctex"
 metadata={
 "vram_texture": false

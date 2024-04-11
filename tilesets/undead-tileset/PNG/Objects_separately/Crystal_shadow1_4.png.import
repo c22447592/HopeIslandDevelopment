@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://f7jolbttt3gu"
+=======
+uid="uid://dtlwpg7qceiaq"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Crystal_shadow1_4.png-6f4f145b269c0ba78390caeafecff726.ctex"
 metadata={
 "vram_texture": false

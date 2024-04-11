@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://p625pygxi06j"
+=======
+uid="uid://dfpidcbalifvj"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Snowmen_ground_shadow5.png-f0a57d3ee44237f74c79188bb17c404b.ctex"
 metadata={
 "vram_texture": false

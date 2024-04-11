@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://p8nfcv2xcqa2"
+=======
+uid="uid://doxo57t28s8ux"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Sand_element10.png-f72376994f8da4aca380a35a7ab096c3.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dlf14intttggo"
+=======
+uid="uid://bskk34uwb8uvf"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Rock6_2.png-e55fc63c1534265e79bcc0b47b14443d.ctex"
 metadata={
 "vram_texture": false

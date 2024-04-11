@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dhtwxeo3jxqyf"
+=======
+uid="uid://c43k51vqxy8qn"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Nessy_head.png-e68164f3537a00ff74eee5369a95dce5.ctex"
 metadata={
 "vram_texture": false

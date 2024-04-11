@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://67drm0ulxx2m"
+=======
+uid="uid://uqru8hl811nk"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/pyramid_sand_shadow2.png-52f30569f665965327df10e2e1b4c976.ctex"
 metadata={
 "vram_texture": false

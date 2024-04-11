@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dnnoo55jl7bmr"
+=======
+uid="uid://cia3m0a1w7c13"
+>>>>>>> 123d2d1f47c1785ce4e1628f25f43eb15a41dbef
 path="res://.godot/imported/Green_stone_dark_shadow3.png-662690b07bfbd4b9c2b195ac8c6b9bbd.ctex"
 metadata={
 "vram_texture": false
