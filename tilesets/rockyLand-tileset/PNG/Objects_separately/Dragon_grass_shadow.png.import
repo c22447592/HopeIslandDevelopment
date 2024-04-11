@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dmapr2vraeptp"
+=======
+uid="uid://dhwb3acxdvxjv"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Dragon_grass_shadow.png-8d0d2878deaaf1553ef65590a19d0fe5.ctex"
 metadata={
 "vram_texture": false

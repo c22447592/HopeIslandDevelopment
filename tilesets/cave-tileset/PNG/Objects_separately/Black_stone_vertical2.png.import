@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bp0asgxejmy88"
+=======
+uid="uid://djufl6rficfw8"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Black_stone_vertical2.png-000ce8b0098fb0ae8deeebb997a9ab59.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://d23y88lfdyspf"
+=======
+uid="uid://c7klximd23xaw"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Grave_shadow3_11.png-f55b86a8dd380abcbd42b8881ef13197.ctex"
 metadata={
 "vram_texture": false

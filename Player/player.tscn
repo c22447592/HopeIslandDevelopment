@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [gd_scene load_steps=62 format=3 uid="uid://bbgfgsq5ad0vj"]
+=======
+[gd_scene load_steps=23 format=3 uid="uid://bbgfgsq5ad0vj"]
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 
 [ext_resource type="Script" path="res://script/Player.gd" id="1_hybb6"]
 [ext_resource type="Texture2D" uid="uid://dmddp1sgxhb6e" path="res://Player/Player-combat.png" id="2_cjs0e"]
@@ -469,15 +473,21 @@ animations = [{
 "speed": 6.0
 }]
 
+<<<<<<< HEAD
 [sub_resource type="CircleShape2D" id="CircleShape2D_32ou1"]
 radius = 70.0286
+=======
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_e2jvn"]
+size = Vector2(51, 22)
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 
 [node name="Player" type="CharacterBody2D"]
+z_index = 2
+y_sort_enabled = true
 script = ExtResource("1_hybb6")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+<<<<<<< HEAD
 position = Vector2(-135, 380)
 scale = Vector2(3.35938, 2.84375)
 sprite_frames = SubResource("SpriteFrames_s1siu")
@@ -497,3 +507,17 @@ wait_time = 0.75
 [connection signal="body_entered" from="playerHitbox" to="." method="_on_player_hitbox_body_entered"]
 [connection signal="body_exited" from="playerHitbox" to="." method="_on_player_hitbox_body_exited"]
 [connection signal="timeout" from="attackCooldown" to="." method="_on_attack_cooldown_timeout"]
+=======
+z_index = 2
+y_sort_enabled = true
+position = Vector2(-113, 323)
+scale = Vector2(3.35938, 2.84375)
+sprite_frames = SubResource("SpriteFrames_s1siu")
+animation = &"walk-sideways"
+frame_progress = 0.525678
+offset = Vector2(40, -139)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(1.5, 1)
+shape = SubResource("RectangleShape2D_e2jvn")
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c

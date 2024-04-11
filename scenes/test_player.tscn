@@ -227,19 +227,15 @@ animations = [{
 }]
 
 [node name="player" type="CharacterBody2D"]
-z_index = -1
+z_index = 2
 y_sort_enabled = true
-collision_layer = 144
-collision_mask = 128
 script = ExtResource("1_7daut")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 y_sort_enabled = true
 position = Vector2(0, -12)
 sprite_frames = SubResource("SpriteFrames_wvo4g")
-animation = &"NE-walk"
-frame = 1
-frame_progress = 0.457197
+animation = &"W-walk"
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
 y_sort_enabled = true

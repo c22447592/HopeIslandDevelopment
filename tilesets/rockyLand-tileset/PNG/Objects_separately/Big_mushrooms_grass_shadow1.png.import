@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bo41tpnm1dfuv"
+=======
+uid="uid://chlefimmxff3f"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Big_mushrooms_grass_shadow1.png-8f3d4c93e9ce60dc9ab647c6f1bfa2d1.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dow6q10tgaveg"
+=======
+uid="uid://bi7q8qgu2s8g0"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Broken_tree_shadow1_7.png-19befbde84808a381f46846e01c27dba.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dn40w3n4am0sl"
+=======
+uid="uid://d3irpyljhg332"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Tentacle_plant_shadow1_3.png-484f0234b244e4d16fbb59e6a3a30a30.ctex"
 metadata={
 "vram_texture": false

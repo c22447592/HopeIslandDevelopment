@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bbtjvl0umxfwg"
+=======
+uid="uid://co1swtt307erk"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/Trees2_ground_shadow3.png-d1631f5a607b5e0bb4a75e77c10c844f.ctex"
 metadata={
 "vram_texture": false

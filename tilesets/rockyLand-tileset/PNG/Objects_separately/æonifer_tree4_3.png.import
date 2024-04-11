@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://1a445gtljcg0"
+=======
+uid="uid://p77p5nhb0lx0"
+>>>>>>> 9add64083822397e6a9b93048c9866a2af75d24c
 path="res://.godot/imported/æonifer_tree4_3.png-0f09716e46ed3685e0f4e0a7e4f436ec.ctex"
 metadata={
 "vram_texture": false
